@@ -1,0 +1,18 @@
+ol
+{
+    
+    list-style-image:url(tree1.jpg);
+    list-style-position: inside;
+    list-style-type: none;
+    color: blueviolet;
+    font-size: xx-large;
+   
+}
+ul
+{
+    list-style-image:url(tree2.jpg);
+    list-style-position: inside;
+    list-style-type: none; 
+    color: rgb(227, 190, 4);
+    font-size: xx-large;
+}
